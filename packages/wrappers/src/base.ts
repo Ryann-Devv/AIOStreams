@@ -7,7 +7,7 @@ import {
   ErrorStream,
   ParseResult,
 } from '@aiostreams/types';
-import { parseFilename } from '@aiostreams/parser';
+
 import {
   getTextHash,
   serviceDetails,
